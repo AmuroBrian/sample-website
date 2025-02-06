@@ -18,6 +18,7 @@ export default function Home() {
             Get started by editing <code>src/app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>Much better in Inspire Next Global Inc.</li>
         </ol>
 
         <div className={styles.ctas}>
